@@ -1,4 +1,4 @@
-City,Region,State,Country,Latitude,Longitude,Population,WaterPollution,AirQuality
+City,State,State_Abbre,Country,Latitude,Longitude,Population,WaterPollution,AirQuality
 New York,New York,NY,United States of America,40.714,-74.007,8804190.0,49.5049505,46.81603774
 Washington,District of Columbia,DC,United States of America,38.895,-77.036,689545.0,49.10714286,66.12903226
 San Francisco,California,CA,United States of America,37.78,-122.414,873965.0,43.0,60.51401869
