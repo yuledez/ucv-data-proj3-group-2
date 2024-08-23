@@ -1,4 +1,4 @@
-## Air Quality in the USA: Can We Breathe Unhealthy Air?
+# Air Pollution: Public Health Issue in the US 
 
 ## Project Overview
 
@@ -39,9 +39,9 @@ sdiofhashdgo
 
 ## Data, Tools, Techniques, and Challenges
 
-### Dataset Description
+## Dataset Description
 
-# Dataset from Kaggle:
+### Dataset from Kaggle:
 
 Water Quality - Every Drop Matters
 source: https://www.kaggle.com/datasets/patricklford/water-and-air-quality
