@@ -1,5 +1,5 @@
 # Air pollution: The invisible health threat
-!([URL_da_Imagem](https://github.com/ocarolinne/ucv-data-proj3-group-2/blob/main/Images/air-pollution_tree_smoke_oil-wells_1medium-1400x850.webp))
+!(https://github.com/ocarolinne/ucv-data-proj3-group-2/blob/main/Images/air-pollution_tree_smoke_oil-wells_1medium-1400x850.webp)
 # Air Quality in the USA: Can We Breathe Unhealthy Air?
 ---
 
