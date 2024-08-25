@@ -1,4 +1,4 @@
-# Air Pollution: Public Health Issue in the US 
+# Air Pollution: A Public Health Issue in California 
 ---
 
 ## Introduction
